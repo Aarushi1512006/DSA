@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 //Program 1
-//Impllement stack sing static array;
+//Implement stack using static array;
 int stack[100], top = -1;
 int size =10;
 bool isFull(){
